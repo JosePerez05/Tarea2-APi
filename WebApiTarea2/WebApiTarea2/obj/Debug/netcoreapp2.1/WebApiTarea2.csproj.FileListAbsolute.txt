@@ -1,0 +1,14 @@
+C:\Users\jose_\source\repos\WebApiTarea2\WebApiTarea2\bin\Debug\netcoreapp2.1\WebApiTarea2.deps.json
+C:\Users\jose_\source\repos\WebApiTarea2\WebApiTarea2\bin\Debug\netcoreapp2.1\WebApiTarea2.runtimeconfig.json
+C:\Users\jose_\source\repos\WebApiTarea2\WebApiTarea2\bin\Debug\netcoreapp2.1\WebApiTarea2.runtimeconfig.dev.json
+C:\Users\jose_\source\repos\WebApiTarea2\WebApiTarea2\bin\Debug\netcoreapp2.1\WebApiTarea2.dll
+C:\Users\jose_\source\repos\WebApiTarea2\WebApiTarea2\obj\Debug\netcoreapp2.1\WebApiTarea2.csprojAssemblyReference.cache
+C:\Users\jose_\source\repos\WebApiTarea2\WebApiTarea2\obj\Debug\netcoreapp2.1\WebApiTarea2.csproj.CoreCompileInputs.cache
+C:\Users\jose_\source\repos\WebApiTarea2\WebApiTarea2\obj\Debug\netcoreapp2.1\WebApiTarea2.RazorAssemblyInfo.cache
+C:\Users\jose_\source\repos\WebApiTarea2\WebApiTarea2\obj\Debug\netcoreapp2.1\WebApiTarea2.RazorAssemblyInfo.cs
+C:\Users\jose_\source\repos\WebApiTarea2\WebApiTarea2\obj\Debug\netcoreapp2.1\WebApiTarea2.AssemblyInfoInputs.cache
+C:\Users\jose_\source\repos\WebApiTarea2\WebApiTarea2\obj\Debug\netcoreapp2.1\WebApiTarea2.AssemblyInfo.cs
+C:\Users\jose_\source\repos\WebApiTarea2\WebApiTarea2\obj\Debug\netcoreapp2.1\WebApiTarea2.RazorTargetAssemblyInfo.cache
+C:\Users\jose_\source\repos\WebApiTarea2\WebApiTarea2\bin\Debug\netcoreapp2.1\WebApiTarea2.pdb
+C:\Users\jose_\source\repos\WebApiTarea2\WebApiTarea2\obj\Debug\netcoreapp2.1\WebApiTarea2.dll
+C:\Users\jose_\source\repos\WebApiTarea2\WebApiTarea2\obj\Debug\netcoreapp2.1\WebApiTarea2.pdb
